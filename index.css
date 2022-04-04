@@ -1,0 +1,29 @@
+.container{
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.row{
+    display: flex;
+}
+
+.bordaDir{
+    border-right: 1px solid blue;
+}
+
+.bordaBaixo{
+    border-bottom: 1px solid blue;
+}
+
+.quad{
+    width: 166.66px;
+    height: 166.66px;
+    font-size: 100px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
